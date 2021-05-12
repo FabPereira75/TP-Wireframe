@@ -118,6 +118,34 @@ header nav ul li a {
     background-position: center;
 }
 
+.img-article4 {
+    height: 100%;
+    width: 30%;
+    background: url(../asset/img/nike4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-article5 {
+    height: 100%;
+    width: 30%;
+    background: url(../asset/img/nike5.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img-article6 {
+    height: 100%;
+    width: 30%;
+    background: url(../asset/img/nike6.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#more-article-section {
+    display: none;
+}
+
 .more-article-btn {
     width: 400px;
     max-width: 450px;
@@ -206,6 +234,18 @@ footer {
         height: 50%;
     }
     .img-article3 {
+        width: auto;
+        height: 50%;
+    }
+    .img-article4 {
+        width: auto;
+        height: 50%;
+    }
+    .img-article5 {
+        width: auto;
+        height: 50%;
+    }
+    .img-article6 {
         width: auto;
         height: 50%;
     }
